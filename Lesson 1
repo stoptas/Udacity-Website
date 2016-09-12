@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> My Lesson 1 Notes </title>
+</head>
+<body>
+
+<h1>My Lesson 1 Notes</h1>
+<p><b>HTML</b> stands for <em> Hypertext Markup Language.</em></p>
+<b>HTTP</b> stands for <em> Hypertext Transfer Protocol</em>
+<p><b>Attributes</b> provide additional information to the browser. </p>
+<p> I am using W3Schools as a <a href="www.w3schools.com">"Text Editor". </a>
+</p>
+<br><img src="http://www.udacity.com/cs253x/hipmunk.png" alt="hipmunk!"> <br> <p>I tried to add different picture but did not work. Would love to have some help.</p>
+</body>
+</html>
